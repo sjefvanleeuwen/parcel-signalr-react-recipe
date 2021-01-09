@@ -1,5 +1,5 @@
 # parcel-signalr-react-recipe
-A recipe for setting up Parcel with SignalR and React. This nodejs project uses yarn. It can be set up using NPM.
+A recipe for setting up Parcel with SignalR and React and rich debugging experience on VSCode.
 
 ## Prerequisites
 
